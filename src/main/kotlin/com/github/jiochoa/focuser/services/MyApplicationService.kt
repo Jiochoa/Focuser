@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jiochoa.focuser.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jiochoa.focuser.MyBundle
 
 class MyApplicationService {
 
